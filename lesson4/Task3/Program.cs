@@ -20,8 +20,9 @@ string GetLettersFromString(string s)
        {
             letters = letters + e;
        }
-       return letters;
+       
     }
+    return letters;
 }
 // создадим строковую переменную и поместим в нее значение считанное с console
 string str = Console.ReadLine();
