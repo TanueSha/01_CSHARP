@@ -23,6 +23,7 @@
                 if (sum % 2 == 0)
                 {
                     Console.WriteLine("Сумма цифр чётная");
+                    break;
                 }
                 
             }
