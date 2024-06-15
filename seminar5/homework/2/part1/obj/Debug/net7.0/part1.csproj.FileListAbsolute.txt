@@ -1,0 +1,4 @@
+D:\УЧЕБА\ПРОГРАМИРОВАНИЕ\PYTHON\GEEKBRAINS\РАЗРАБОТЧИК\Основной блок\1 ЧЕТВЕРТЬ\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\01_CSHARP\seminar5\homework\2\part1\obj\Debug\net7.0\part1.GeneratedMSBuildEditorConfig.editorconfig
+D:\УЧЕБА\ПРОГРАМИРОВАНИЕ\PYTHON\GEEKBRAINS\РАЗРАБОТЧИК\Основной блок\1 ЧЕТВЕРТЬ\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\01_CSHARP\seminar5\homework\2\part1\obj\Debug\net7.0\part1.AssemblyInfoInputs.cache
+D:\УЧЕБА\ПРОГРАМИРОВАНИЕ\PYTHON\GEEKBRAINS\РАЗРАБОТЧИК\Основной блок\1 ЧЕТВЕРТЬ\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\01_CSHARP\seminar5\homework\2\part1\obj\Debug\net7.0\part1.AssemblyInfo.cs
+D:\УЧЕБА\ПРОГРАМИРОВАНИЕ\PYTHON\GEEKBRAINS\РАЗРАБОТЧИК\Основной блок\1 ЧЕТВЕРТЬ\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\01_CSHARP\seminar5\homework\2\part1\obj\Debug\net7.0\part1.csproj.CoreCompileInputs.cache
