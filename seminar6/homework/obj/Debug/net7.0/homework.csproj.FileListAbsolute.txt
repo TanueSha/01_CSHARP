@@ -1,0 +1,14 @@
+D:\УЧЕБА\ПРОГРАМИРОВАНИЕ\PYTHON\GEEKBRAINS\РАЗРАБОТЧИК\Основной блок\1 ЧЕТВЕРТЬ\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\01_CSHARP\seminar6\homework\bin\Debug\net7.0\homework.exe
+D:\УЧЕБА\ПРОГРАМИРОВАНИЕ\PYTHON\GEEKBRAINS\РАЗРАБОТЧИК\Основной блок\1 ЧЕТВЕРТЬ\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\01_CSHARP\seminar6\homework\bin\Debug\net7.0\homework.deps.json
+D:\УЧЕБА\ПРОГРАМИРОВАНИЕ\PYTHON\GEEKBRAINS\РАЗРАБОТЧИК\Основной блок\1 ЧЕТВЕРТЬ\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\01_CSHARP\seminar6\homework\bin\Debug\net7.0\homework.runtimeconfig.json
+D:\УЧЕБА\ПРОГРАМИРОВАНИЕ\PYTHON\GEEKBRAINS\РАЗРАБОТЧИК\Основной блок\1 ЧЕТВЕРТЬ\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\01_CSHARP\seminar6\homework\bin\Debug\net7.0\homework.dll
+D:\УЧЕБА\ПРОГРАМИРОВАНИЕ\PYTHON\GEEKBRAINS\РАЗРАБОТЧИК\Основной блок\1 ЧЕТВЕРТЬ\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\01_CSHARP\seminar6\homework\bin\Debug\net7.0\homework.pdb
+D:\УЧЕБА\ПРОГРАМИРОВАНИЕ\PYTHON\GEEKBRAINS\РАЗРАБОТЧИК\Основной блок\1 ЧЕТВЕРТЬ\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\01_CSHARP\seminar6\homework\obj\Debug\net7.0\homework.GeneratedMSBuildEditorConfig.editorconfig
+D:\УЧЕБА\ПРОГРАМИРОВАНИЕ\PYTHON\GEEKBRAINS\РАЗРАБОТЧИК\Основной блок\1 ЧЕТВЕРТЬ\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\01_CSHARP\seminar6\homework\obj\Debug\net7.0\homework.AssemblyInfoInputs.cache
+D:\УЧЕБА\ПРОГРАМИРОВАНИЕ\PYTHON\GEEKBRAINS\РАЗРАБОТЧИК\Основной блок\1 ЧЕТВЕРТЬ\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\01_CSHARP\seminar6\homework\obj\Debug\net7.0\homework.AssemblyInfo.cs
+D:\УЧЕБА\ПРОГРАМИРОВАНИЕ\PYTHON\GEEKBRAINS\РАЗРАБОТЧИК\Основной блок\1 ЧЕТВЕРТЬ\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\01_CSHARP\seminar6\homework\obj\Debug\net7.0\homework.csproj.CoreCompileInputs.cache
+D:\УЧЕБА\ПРОГРАМИРОВАНИЕ\PYTHON\GEEKBRAINS\РАЗРАБОТЧИК\Основной блок\1 ЧЕТВЕРТЬ\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\01_CSHARP\seminar6\homework\obj\Debug\net7.0\homework.dll
+D:\УЧЕБА\ПРОГРАМИРОВАНИЕ\PYTHON\GEEKBRAINS\РАЗРАБОТЧИК\Основной блок\1 ЧЕТВЕРТЬ\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\01_CSHARP\seminar6\homework\obj\Debug\net7.0\refint\homework.dll
+D:\УЧЕБА\ПРОГРАМИРОВАНИЕ\PYTHON\GEEKBRAINS\РАЗРАБОТЧИК\Основной блок\1 ЧЕТВЕРТЬ\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\01_CSHARP\seminar6\homework\obj\Debug\net7.0\homework.pdb
+D:\УЧЕБА\ПРОГРАМИРОВАНИЕ\PYTHON\GEEKBRAINS\РАЗРАБОТЧИК\Основной блок\1 ЧЕТВЕРТЬ\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\01_CSHARP\seminar6\homework\obj\Debug\net7.0\homework.genruntimeconfig.cache
+D:\УЧЕБА\ПРОГРАМИРОВАНИЕ\PYTHON\GEEKBRAINS\РАЗРАБОТЧИК\Основной блок\1 ЧЕТВЕРТЬ\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\01_CSHARP\seminar6\homework\obj\Debug\net7.0\ref\homework.dll
