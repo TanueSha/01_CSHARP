@@ -50,3 +50,20 @@ int Ackermann(int m, int n)
 }
 
 
+// Задача 3: Задайте произвольный массив. Выведете его элементы, начиная с конца. 
+// Использовать рекурсию, не использовать циклы.
+
+int [] array = {1,2,3,4,5};
+
+
+void PrintArrayReverse(int [] array, int i)
+{
+    if (i < 0)
+    {
+        return;
+    }
+    Console.Write(array[i]+ " ");
+    PrintArrayReverse(array, i - 1);
+    
+}
+PrintArrayReverse(array, array.Length - 1);
